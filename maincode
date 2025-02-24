@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
 # Инициализация бота и диспетчера
-bot = Bot(token="7885276667:AAFWWj7v5zYEZv8_vX6kTrCJUk4Cj0PiqDo")
+bot = Bot(token="")
 dp = Dispatcher()
 
 # Хранилище материалов
